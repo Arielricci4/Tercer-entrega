@@ -1,0 +1,28 @@
+.redes {
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: #902727;
+    background-position: center;
+    background-size: contain;
+  }
+  
+  .redes-img {
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.46);
+    }
+  
+    width: 50px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  footer {
+    background-color: #902727;
+    background-position: center;
+    background-size: cover;
+    min-height: 10vh;
+    border-top: 1px solid #000;
+  }
+  

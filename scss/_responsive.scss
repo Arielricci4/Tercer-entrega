@@ -1,0 +1,61 @@
+@media screen and (min-width: 400px) {
+    .titulo-marolio {
+      font-size: 23px;
+    }
+  
+    .titulo-main-menu {
+      font-size: 28px;
+    }
+  }
+  
+  @media screen and (min-width: 720px) {
+    .footer-horarios {
+      font-size: 20px;
+    }
+  
+    .footer-seguinos {
+      font-size: 24px;
+    }
+  
+    .titulo-main {
+      font-size: 30px;
+    }
+  
+    .texto-main {
+      font-size: 25px;
+    }
+  
+    .titulo-main-menu {
+      font-size: 33px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .marolio {
+      margin-right: 50px;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .footer-seguinos {
+      position: relative;
+      left: 30px;
+    }
+  
+    .nav-li {
+      font-size: 22px;
+    }
+  }
+  
+  @media screen and (min-width: 1400px) {
+    #carousel {
+      display: flex;
+      align-items: center;
+    }
+  
+    .footer-seguinos {
+      position: relative;
+      left: 100px;
+    }
+  }
+  
